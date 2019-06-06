@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/madusankaisuruwanJ/DevOps_Project/_apis/build/status/isurujayasighe.DevOps?branchName=master)](https://dev.azure.com/madusankaisuruwanJ/DevOps_Project/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
